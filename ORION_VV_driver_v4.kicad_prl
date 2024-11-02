@@ -3,10 +3,12 @@
     "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": false,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 0.699999988079071,
       "tracks": 1.0,
       "vias": 1.0,
@@ -58,6 +60,12 @@
     ],
     "visible_layers": "00011a0_00000000",
     "zone_display_mode": 1
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "ORION_VV_driver_v4.kicad_prl",
